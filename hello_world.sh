@@ -1,3 +1,3 @@
 #!/bin/sh
 
-echo "Hello World!" > ~/hello_world.txt
+echo "($date) Hello World!" >> /var/log/hello_world.log
